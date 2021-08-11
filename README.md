@@ -1,5 +1,8 @@
 # LDAModel
-### A Java Implementation of Latent Dirichlet Allocation (LDA) using Gibbs Sampling for Parameter Estimation and Inference
+
+[![License](https://img.shields.io/github/license/vikrantkakad/LDAModel?color=009fff)](LICENSE)
+
+A Java Implementation of Latent Dirichlet Allocation (LDA) using Gibbs Sampling for Parameter Estimation and Inference
 
 # Usage 
 #### Command Line & Input Parameters
